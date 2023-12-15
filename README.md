@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a third year student studying computer science at UT Austin<br>🌱 I have experience in web development and game design<br>💡  <br>⚡ Interested in opportunities at startups!<br><br>
+🎓 I’m a third year student studying computer science at UT Austin<br>
 
 
 ## 🌐 Socials:
