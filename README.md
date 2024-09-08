@@ -1,6 +1,7 @@
 # 💫 About Me:
-🎓 I’m a third year student studying computer science at UT Austin<br>
-
+🎓 I’m a fourth year student studying computer science at UT Austin<br>
+⭐️ Interested in big data and infrastructure <br>
+💪 Currently learning about scaling websockets using Go!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/albertsun0) 
